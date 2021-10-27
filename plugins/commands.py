@@ -100,7 +100,7 @@ async def start(bot, cmd):
                 [
                     [
                         InlineKeyboardButton("📺 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘 🔍", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("📥 𝗢𝗧𝗧 𝗠𝗢𝗩𝗜𝗘𝗦 📥", url='https://t.me/MALAYALAMNEWMOVIESONLY1'),
+                        InlineKeyboardButton("📥 𝗢𝗧𝗧 𝗠𝗢𝗩𝗜𝗘𝗦 📥", url='https://t.me/MM2NDCHANNEL'),
                     ],
                    [
                        InlineKeyboardButton("🍿 𝗠𝗢𝗩𝗜𝗘𝗦 📺", url='https://t.me/malayalammoviesmms'),
